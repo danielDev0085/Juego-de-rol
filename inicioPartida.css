@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(223, 219, 219);
+    color: rgb(13, 13, 74);
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+}
+
+body form{
+    display: flex;
+    align-items: center;
+    margin: 100px 0px;
+    text-align: center;
+    justify-content: center;
+}
+
+body form button{
+    background-color: rgb(13, 13, 74);
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    margin: 20px 20px;
+}
+
+#nombre, #experiencia, #radio-buttons{
+    margin:10px 20px;
+}
+
+form fieldset{
+    justify-content: center;
+    background-color: rgb(145, 201, 231);
+    width: 600px;
+}
+
+
+

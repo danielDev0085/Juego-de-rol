@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(223, 219, 219);
+    color: rgb(13, 13, 74);
+    font-size: 18px;
+}
+
+body #tabla{
+    display: flex;
+    justify-content: center;
+    margin: 60px 30px;
+    
+}
+tbody{
+    background-color: rgb(145, 201, 231);
+    border: solid 1px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+body form{
+    justify-content: center;
+    text-align: center;
+    margin: 20px 20px;
+    width: auto;
+}
+
+body form input{
+    margin-right: 50px;
+}
+
+body form button{
+    background-color: rgb(13, 13, 74);
+    color: white;
+    padding: 10px;
+    margin-top: 15px;
+}
